@@ -102,7 +102,7 @@ router.post('/search', async (req, res) => {
 
         
     const locals = {
-        title: "Search",
+        title: "Search",  
         description: "Blog Created With NodeJs, Express And MongoDb"
     }
 
